@@ -126,7 +126,7 @@ public class MangaSoundApplication {
                     reprodutor.reproduzirLista();
                     break;
 
-                case 6:
+                case 6:git
                     reprodutor.pausar();
                     break;
 
