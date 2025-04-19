@@ -9,10 +9,11 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 
 Avaliação das PRs:
 
-| Avaliador      | Fulando1 | Fulando2 | Fulando3 | Fulando4 | Fulando5 |
-|---------------    -|----------|----------|----------|----------|----------|
-| Ygor Luckas        |    *     |   0      |  0       |  0       | 0        |
-| Matheus Vinicius   |    0     |   *      |  0       |  0       | 0        |
-| Felipe Natan       |    0     |   0      |  *       |  0       | 0        |
-| Emanuel Amaral     |    0     |   0      |  0       |  *       | 0        |
+### ✅ Tabela de Avaliação entre Integrantes
 
+| Avaliador           | Ygor Luckas | Matheus Vinicius | Felipe Natan | Emanuel Amaral |
+|--------------------:|:-----------:|:----------------:|:------------:|:--------------:|
+| **Ygor Luckas**      | ⭐          | 10                | 10            | 10              |
+| **Matheus Vinicius** | 0          | ⭐                | 0            | 0              |
+| **Felipe Natan**     | 0          | 0                | ⭐            | 0              |
+| **Emanuel Amaral**   | 0          | 0                | 0            | ⭐              |
