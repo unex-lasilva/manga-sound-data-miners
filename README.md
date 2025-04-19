@@ -11,8 +11,8 @@ Avaliação das PRs:
 
 | Avaliador      | Fulando1 | Fulando2 | Fulando3 | Fulando4 | Fulando5 |
 |---------------    -|----------|----------|----------|----------|----------|
-| Ygor Luckas        |    *     |   0      |  0       |  0       | 0        |
-| Matheus Vinicius   |    0     |   *      |  0       |  0       | 0        |
+| Ygor Luckas        |    *     |   10      |  10       |  10       | 10        |
+| Matheus Vinicius   |    10     |   *      |  10       |  10       | 10        |
 | Felipe Natan       |    0     |   0      |  *       |  0       | 0        |
-| Emanuel Amaral     |    0     |   0      |  0       |  *       | 0        |
+| Emanuel Amaral     |    10     |   10      |  10       |  *       | 10        |
 
