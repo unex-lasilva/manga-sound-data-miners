@@ -13,6 +13,6 @@ Avaliação das PRs:
 |---------------    -|----------|----------|----------|----------|----------|
 | Ygor Luckas        |    *     |   0      |  0       |  0       | 0        |
 | Matheus Vinicius   |    0     |   *      |  0       |  0       | 0        |
-| Felipe Natan       |    0     |   0      |  *       |  0       | 0        |
+| Felipe Natan       |    10     |   10      |  *       |  10       | 10        |
 | Emanuel Amaral     |    0     |   0      |  0       |  *       | 0        |
 
