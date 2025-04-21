@@ -17,7 +17,7 @@ Avaliação das PRs:
 
 | Avaliador           | Ygor Luckas | Matheus Vinicius | Felipe Natan | Emanuel Amaral |
 |--------------------:|:-----------:|:----------------:|:------------:|:--------------:|
-| **Ygor Luckas**      | ⭐          | 10                | 10            | 10              |
-| **Matheus Vinicius** | 10          | ⭐                | 10            | 10              |
+| **Ygor Luckas**      | ⭐          | 10                | 10           | 10              |
+| **Matheus Vinicius** | 10         | ⭐                | 10           | 10              |
 | **Felipe Natan**     | 10          | 10               | ⭐            | 10             |
 | **Emanuel Amaral**   | 10          | 10                | 10            | ⭐              |
