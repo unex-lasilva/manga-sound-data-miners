@@ -5,7 +5,11 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 # Diagrama de Classes: 
 
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
-
+Equipe: Data Miners
+1.Ygor Luckas
+2.Matheus Vinicius
+3.Felipe Natan
+4.Emanuel Amaral
 
 Avaliação das PRs:
 
